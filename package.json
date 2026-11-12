@@ -1,0 +1,31 @@
+{
+  "name": "works.catsoft.visualscript-characters",
+  "version": "1.0.0",
+  "displayName": "Visual Script - Characters",
+  "description": "Characters, cameras and hotspots for Visual Script. Move, animate and control players and NPCs straight from the Inspector.",
+  "documentationUrl": "https://docs.visualscript.dev",
+  "changelogUrl": "https://visualscript.dev/changelog",
+  "licensesUrl": "https://visualscript.dev/license",
+  "samples": [
+    {
+      "displayName": "Get Started",
+      "description": "Scenes that show one feature at a time: the Character (movement, gestures and states, markers, footsteps, mobile controls, point and click, ragdoll, interactions), every camera Shot, Hotspots and saving a Character with Remember.",
+      "path": "Samples~/GetStarted"
+    }
+  ],
+  "dependencies": {
+    "works.catsoft.visualscript": "1.0.2",
+    "com.unity.inputsystem": "1.20.1",
+    "com.unity.mathematics": "1.4.0",
+    "com.unity.collections": "6.5.0"
+  },
+  "keywords": [
+    "Visual Scripting",
+    "Characters"
+  ],
+  "author": {
+    "name": "Catsoft Works",
+    "email": "hello@catsoft.works",
+    "url": "https://catsoft.works"
+  }
+}
